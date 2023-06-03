@@ -1,0 +1,51 @@
+body {
+  min-height: 2000px;
+}
+
+nav {
+  background-color: #11746f;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #004643;
+}
+
+.jumbotron h1 {
+  color: #fffffe;
+}
+
+.jumbotron p {
+  color: #fffffe;
+}
+
+.about {
+  background-color: #abd1c6;
+}
+
+.achievement {
+  background-color: #004643;
+  min-height: 500px;
+}
+
+.achievement h2 {
+  color: #fffffe;
+}
+
+#contact {
+  background-color: #abd1c6;
+  min-height: 350px;
+}
+
+button img {
+  width: 20px;
+}
+
+footer {
+  background-color: #11746f;
+  color: #fffffe;
+}
+
+section {
+  padding-top: 5rem;
+}
